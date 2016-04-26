@@ -19,4 +19,6 @@ Here's the pitch:
 [1]: http://radblock.xyz.s3.amazonaws.com/index.html
 [2]: http://list.radblock.xyz.s3.amazonaws.com/list.json
 
+nb
+
 > we have radblock.xyz but dns isn't set up yet, append ".s3.amazonaws.com" to the urls in the list accordingly.
