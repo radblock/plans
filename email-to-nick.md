@@ -4,7 +4,11 @@ We (taylor and I) are making a plugin-thingy called radblock. It's like adblock,
 
 We have a webpage where someone can upload a gif [1], and another thingy that builds a list of the gifs [2].
 
+[1]: http://radblock.xyz
+[2]: http://list.radblock.xyz
+
 Here's the pitch:
+
 **community-platform**
 
 > radblock is a platform for web-based artists at SAIC to show their work to an interested audience online. 
@@ -16,13 +20,3 @@ Here's the pitch:
 **for web users**
 
 > install radblock and add art [by cutting-edge saic students] to your internet life
-
-* * *
-
-
-[1]: http://radblock.xyz.s3.amazonaws.com/index.html
-[2]: http://list.radblock.xyz.s3.amazonaws.com/list.json
-
-nb
-
-> we have radblock.xyz but dns isn't set up yet, append ".s3.amazonaws.com" to the urls in the list accordingly.
